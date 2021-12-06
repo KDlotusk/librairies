@@ -1,9 +1,9 @@
-Mes Librairies 
+My Librairies 
 ====
 
-le but de ce git est de garder toute mes librairies personnelle à jour est disponible partout 
-
-les éléments que l'on peut pour l'instant retrouver sont : 
+The goal to this github is to keep my personal librairies uptodate and accessible today
+ 
+The current file you van find in this git :
 
 * fifo_lifo.h
-	File et Pile utilisable dans le cas général
+	File and Stack that can be used in most of the case
